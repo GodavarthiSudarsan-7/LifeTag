@@ -1,7 +1,7 @@
 # LIFETAG — Smart Emergency Identification & QR Platform
 > *"When You Can't Speak, Let Lifetag Speak for You."*
 
-**Academic Requirement:** End-to-End Database Management Systems (DBMS) Capstone Project  
+
 **Database:** MySQL 8.0 (`lifetag_db`)  
 **Backend:** Node.js (Express), `mysql2`, `bcryptjs`, `jsonwebtoken`  
 **Frontend:** React 18, Tailwind CSS, Lucide Icons, Vite  
