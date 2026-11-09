@@ -75,21 +75,7 @@ LIFETAG/
 └── README.md
 ```
 
----
 
-## 3. Seed Accounts for Review & Testing
-
-All seed users are pre-configured with the default password: **`Password@123`**
-
-| Name | Email | Blood Group | Profile Code | Key Medical Condition / Allergy |
-| :--- | :--- | :---: | :---: | :--- |
-| **Sudarsan V** | `sudarsan@lifetag.in` | **A+** | `LT-00001` | Mild Persistent Asthma (Inhaler) |
-| **Priya Sharma** | `priya.sharma@lifetag.in` | **O+** | `LT-00002` | Type 1 Diabetes, **Penicillin Allergy (Anaphylactic)** |
-| **Arjun Reddy** | `arjun.reddy@lifetag.in` | **B+** | `LT-00003` | Primary Hypertension |
-| **Meena Iyer** | `meena.iyer@lifetag.in` | **A+** | `LT-00004` | Coronary Stent, **Sulfa Drugs Allergy** |
-| **Rahul Verma** | `rahul.verma@lifetag.in` | **O-** | `LT-00005` | Universal Blood Donor, **Peanut Allergy (EpiPen)** |
-
----
 
 ## 4. How to Run the Web Application
 
